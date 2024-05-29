@@ -1,0 +1,8 @@
+.card, .table{
+    border: 1px solid rgb(255, 252, 252) !important;
+    padding: 22px !important;
+    background-color: lightgray !important;
+}
+*{
+    margin: 0% !important;
+}

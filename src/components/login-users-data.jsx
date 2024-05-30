@@ -24,7 +24,7 @@ const LogInUsersRecords = () => {
         <>
             <Row className="justify-content-center mt-5">
                 <Col className="mt-5" lg={10} md={10} sm={10} xs={10}>
-                    <Table striped bordered>
+                    <Table striped bordered responsive>
                         <thead>
                             <tr>
                                 <th>S.No.</th>
